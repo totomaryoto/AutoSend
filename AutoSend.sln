@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSend", "AutoSend\AutoSend.csproj", "{0843ABBA-DAE3-4763-958B-8826F8B92848}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AutoSendSetup", "AutoSendSetup\AutoSendSetup.vdproj", "{70789994-8EF7-4302-A9EA-08CF44462576}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://nghty-cs:8080/tfs/rpg_erp
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AutoSend\\AutoSend.csproj
+		SccProjectName1 = AutoSend
+		SccLocalPath1 = AutoSend
+		SccProjectUniqueName2 = AutoSendSetup\\AutoSendSetup.vdproj
+		SccProjectName2 = AutoSendSetup
+		SccLocalPath2 = AutoSendSetup
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0843ABBA-DAE3-4763-958B-8826F8B92848}.Debug|x86.ActiveCfg = Debug|x86
+		{0843ABBA-DAE3-4763-958B-8826F8B92848}.Debug|x86.Build.0 = Debug|x86
+		{0843ABBA-DAE3-4763-958B-8826F8B92848}.Release|x86.ActiveCfg = Release|x86
+		{0843ABBA-DAE3-4763-958B-8826F8B92848}.Release|x86.Build.0 = Release|x86
+		{70789994-8EF7-4302-A9EA-08CF44462576}.Debug|x86.ActiveCfg = Debug
+		{70789994-8EF7-4302-A9EA-08CF44462576}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
